@@ -1,0 +1,44 @@
+/* Basic TreeView styles translated from Astro markup */
+.tree-view {
+  padding: 0.5rem;
+}
+
+.tree-view-title {
+  font-size: 1rem;
+  margin: 0 0 0.5rem 0;
+}
+
+.tree-view-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.tree-view-list li {
+  margin-bottom: 0.25rem;
+}
+
+.tree-view-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem;
+  text-decoration: none;
+  color: inherit;
+  border-radius: 6px;
+}
+
+.tree-view-item:hover {
+  background: rgba(0, 0, 0, 0.04);
+}
+
+.category-name {
+  font-weight: 500;
+}
+
+.category-count {
+  background: #eef2f5;
+  color: #111;
+  padding: 0.15rem 0.5rem;
+  border-radius: 999px;
+  font-size: 0.85rem;
+}
