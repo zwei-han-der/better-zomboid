@@ -1,0 +1,10 @@
+[
+  { "id": "user-interface", "name": "User Interface" },
+  { "id": "character", "name": "Character" },
+  { "id": "clothing", "name": "Clothing" },
+  { "id": "combat", "name": "Combat" },
+  { "id": "world", "name": "World" },
+  { "id": "map", "name": "Map" },
+  { "id": "vehicle", "name": "Vehicle" },
+  { "id": "quality-of-life", "name": "Quality of Life" }
+]
