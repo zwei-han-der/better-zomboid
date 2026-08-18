@@ -1,5 +1,21 @@
-# Better Zomboid
+# bun-react-template
 
-Project Zomboid, porém, melhor.
+To install dependencies:
 
-Esta coleção busca trazer melhorias, as vezes, minuciosas para o jogo sem fugir da essência original.
+```bash
+bun install
+```
+
+To start a development server:
+
+```bash
+bun dev
+```
+
+To run for production:
+
+```bash
+bun start
+```
+
+This project was created using `bun init` in bun v1.3.14. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
