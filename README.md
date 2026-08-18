@@ -1,7 +1,5 @@
 # Better Zomboid
 
-Better Zomboid é uma coletânea de mods de minha preferência ao jogar Project Zomboid.
+Project Zomboid, porém, melhor.
 
-***
-
-Visite o site em: [Better Zomboid](https://zwei-han-der.github.io/better-zomboid)
+Esta coleção busca trazer melhorias, as vezes, minuciosas para o jogo sem fugir da essência original.
